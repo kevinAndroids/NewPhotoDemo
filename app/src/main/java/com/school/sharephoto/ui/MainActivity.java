@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         data.add("http://img04.sogoucdn.com/app/a/100520024/da58c325457e35bc35ef5b88ff6e8f93");
         data.add("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1551350691824&di=888eada749b09bb0a1db18c3cb36a077&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20173_7_18%2Fa1h59g3470867073619.gif");
         data.add("http://img04.sogoucdn.com/app/a/100520024/d8cd08e9ad5e594e6072b79b16a79cb9");
-        data.add("http://img03.sogoucdn.com/app/a/100520024/");
+        data.add("http://img03.sogoucdn.com/app/a/100520024123123/123123123");
 
         multiView.setImages(data);
 
